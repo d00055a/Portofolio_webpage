@@ -99,4 +99,9 @@ hr {
   border: 2px solid burlywood;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
+
 
