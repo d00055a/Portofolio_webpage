@@ -99,8 +99,11 @@ hr {
   border: 2px solid burlywood;
 }
 
+@media (prefers-reduced-motion: no-preference){
 * {
   scroll-behavior: smooth;
+  }
+
 }
 
 
