@@ -14,3 +14,7 @@ It includes sections like Home, About, Projects, and Contact.
 
 Live Demo : view here ---> (https://d00055a.github.io/Portofolio_webpage/)
 
+<br/>
+
+License © 2025 Daniel Dedja. All rights reserved.
+
