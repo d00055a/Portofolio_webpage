@@ -38,7 +38,7 @@ This website serves as a central place to present my work and provide an easy wa
 
 ## Live Demo
 
-View here --> (https://d00055a.github.io/Portofolio_webpage/)
+View here --> (https://d00055a.github.io/portfolio-website/)
 
 ## Purpose
 
