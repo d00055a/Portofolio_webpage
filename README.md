@@ -1,18 +1,56 @@
-# Portofolio webpage
-My personal portfolio website built with HTML and CSS.  
+# Portfolio Webpage
 
-It includes sections like Home, About, Projects, and Contact.  
+A personal **portfolio website** built with **HTML and CSS**, designed to showcase my projects, skills and background as a web developer.
 
+This website serves as a central place to present my work and provide an easy way for recruiters and collaborators to get in touch.
 
-🛠️ Technologies Used
-- HTML5 --> for structuring the content
-- CSS3 --> for styling and responsiveness
-- Google Fonts (Open Sans) --> for typography
-- Git & GitHub --> for version control and hosting
-- GitHub Pages --> for live deployment
-  
+## Features 
 
-Live Demo : view here ---> (https://d00055a.github.io/Portofolio_webpage/)
+- Clean and minimal user interface
+
+- Fully responsive layout
+
+- Sections:
+
+   - Home
+
+   - About
+
+   - Projects
+
+   - Contact
+
+- Custom typography using Google Fonts
+
+- Optimized for desktop and mobile devices
+
+## Tech Stack
+
+- **HTML5** – Page structure
+
+- **CSS3** – Styling and responsive design
+
+- **Google Fonts (Open Sans)** – Typography
+
+- **Git & GitHub** – Version control
+
+- **GitHub Pages** – Live deployment
+
+## Live Demo
+
+View here ---> (https://d00055a.github.io/Portofolio_webpage/)
+
+## Purpose
+
+This project was built to:
+
+- Create a personal web presence
+
+- Showcase projects and technical skills
+
+- Practice clean HTML/CSS structure
+
+- Provide a professional portfolio for job applications
 
 <br/>
 
