@@ -50,9 +50,4 @@ This project was built to:
 
 - Practice clean HTML/CSS structure
 
-- Provide a professional portfolio for job applications
-
-<br/>
-
-License © 2025 Daniel Dedja. All rights reserved.
-
+- Provide a professional portfolio for job applications.
