@@ -1,53 +1,42 @@
-# Portfolio Webpage
+# Portfolio Website
 
-A personal **portfolio website** built with **HTML and CSS**, designed to showcase my projects, skills and background as a web developer.
+## Overview
 
-This website serves as a central place to present my work and provide an easy way for recruiters and collaborators to get in touch.
+This project is a personal portfolio website built with HTML and CSS. It was developed independently as part of the initial tasks of a remote Web Development Internship at Codveda Technologies.
 
-## Features 
+The website serves as a simple and clean online presence to showcase projects, skills and background as a web developer.
+
+## Project Scope
+
+This is a frontend-only foundational project focused on clean HTML structure, responsive CSS layout and basic web design principles. It does not include backend functionality.
+
+## Features
 
 - Clean and minimal user interface
-
 - Fully responsive layout
-
 - Sections:
-
-   - Home
-
-   - About
-
-   - Projects
-
-   - Contact
-
+  - Home
+  - About
+  - Projects
+  - Contact
 - Custom typography using Google Fonts
-
 - Optimized for desktop and mobile devices
 
 ## Tech Stack
 
-- **HTML5** – Page structure
-
-- **CSS3** – Styling and responsive design
-
-- **Google Fonts (Open Sans)** – Typography
-
-- **Git & GitHub** – Version control
-
-- **GitHub Pages** – Live deployment
+- HTML5 – Page structure
+- CSS3 – Styling and responsive design
+- Google Fonts (Open Sans) – Typography
 
 ## Live Demo
 
-View here --> (https://d00055a.github.io/portfolio-website/)
+https://d00055a.github.io/portfolio-website/
 
 ## Purpose
 
 This project was built to:
-
 - Create a personal web presence
+- Practice clean and semantic HTML structure
+- Apply responsive CSS design techniques
+- Provide a simple portfolio for early job applications
 
-- Showcase projects and technical skills
-
-- Practice clean HTML/CSS structure
-
-- Provide a professional portfolio for job applications.
